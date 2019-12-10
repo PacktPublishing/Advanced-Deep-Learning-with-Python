@@ -1,0 +1,1 @@
+Source code for chapter _Advanced Convolutional Networks_. The example implements ResNet from scratch using PyTorch. 

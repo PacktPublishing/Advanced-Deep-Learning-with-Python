@@ -1,0 +1,1 @@
+Source code for chapter _Deep Learning for Autonomous Vehicles_. The example implements imitation learning in the `CarRacing-v0` OpenAI gym environment. 

@@ -1,0 +1,1 @@
+Source code for chapter _Meta learning_. The example implements siamese networks using TensorFlow 2.0. 

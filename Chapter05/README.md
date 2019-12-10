@@ -1,0 +1,1 @@
+Source code for chapter _Generative Models_. The examples implement DCGAN, Conditional GAN, Wasserstein GAN, and CycleGAN. 

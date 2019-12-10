@@ -1,0 +1,1 @@
+Source code for chapter _Emerging Neural Network Designs_. The example implements [Neural Structured Learning](https://www.tensorflow.org/neural_structured_learning) using TensorFlow 2.0. 
