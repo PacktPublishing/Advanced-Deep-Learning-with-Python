@@ -1,6 +1,6 @@
 # Advanced Deep Learning with Python
 
-<a href="https://www.packtpub.com/data/advanced-deep-learning-with-python?utm_source=github&utm_medium=repository&utm_campaign=9781838644482"><img src="https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/9/7/9781789956177-original.jpeg" alt="Advanced Deep Learning with Python" height="256px" align="right"></a>
+<a href="https://www.packtpub.com/data/advanced-deep-learning-with-python?utm_source=github&utm_medium=repository&utm_campaign=9781838644482"><img src="https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/9/7/9781789956177-original_1_1.jpg" alt="Advanced Deep Learning with Python" height="256px" align="right"></a>
 
 This is the code repository for [Advanced Deep Learning with Python](https://www.packtpub.com/data/advanced-deep-learning-with-python?utm_source=github&utm_medium=repository&utm_campaign=9781838644482), published by Packt.
 
